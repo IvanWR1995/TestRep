@@ -1,0 +1,6 @@
+# ALL ignore
+/ForIgnore
+# Some ignore
+/Test/*.js
+/Test/*.php
+/nppBackup
